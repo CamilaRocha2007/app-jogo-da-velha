@@ -1,6 +1,6 @@
-# myapp
+# App Jogo Da Velha
 
-A new Flutter project.
+Programa desenvolvido como atividade para a Unidade 4 da dicciplina 11 (Desenvolvimento Web) do programa Talento Tech - PR
 
 ## Getting Started
 
